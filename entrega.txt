@@ -1,0 +1,17 @@
+ChargeGrid Intelligence - Sprint 02
+EV Challenge 2026 - FIAP x GoodWe
+Disciplina: Pensamento Computacional
+Equipe: Pringles
+
+INTEGRANTES (Nome - RM):
+Enzo Ricardo Silva - 571333
+Eric Hernandes Penhalbel - 570237
+Joao Guilherme Figuereido - 572697
+Matheus Borges Soares - 574085
+Murilo Henrique Souza Ignacio - 573621
+Ryan Luther Roque - 572993
+
+LINKS:
+Video (YouTube, nao listado): https://www.youtube.com/watch?v=1mStMXvpGok
+Repositorio GitHub: https://github.com/muriloignaccio/sprint03-PCAP
+Quadro Kanban (publico): https://trello.com/b/kVtEAEet

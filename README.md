@@ -117,4 +117,4 @@ A simulação é ancorada em elementos reais do ecossistema:
 ## 🔗 Links
 
 - 🎥 **Vídeo (YouTube, não listado):** https://www.youtube.com/watch?v=1mStMXvpGok
-- 📋 **Quadro Kanban (público):** https://trello.com/invite/b/6a30aca7673f03e9f82a7fb1/ATTI672a8334ce708bf9272ad0f6513c2a13F7445AC4/chargegrid-intelligence
+- 📋 **Quadro Kanban (público):** https://trello.com/b/kVtEAEet
